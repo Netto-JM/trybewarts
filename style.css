@@ -75,10 +75,6 @@ main {
   border: 2px solid black;
 }
 
-#trybewarts-forms-logo {
-  height: 500px;
-}
-
 .nameLastname {
   display: flex;
   border: 2px solid black;
@@ -124,6 +120,10 @@ hr {
   position: relative;
   top: -45px;
   left: 95%;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
 }
 
 footer {
